@@ -1,0 +1,94 @@
+How to contribute to Go?
+www.goandfix.me
+13 Dec 2017
+
+Afanasev Stanislav
+Gopher, Juno
+https://www.goandfix.me/
+@superstas88
+
+* Agenda
+
+- Why?
+- How to?
+- What to contribute?
+.image ./images/intro.gif
+.caption  [[https://www.howtobuybit.coin][he wants to buy Bitcoin but doesn't know how :(]]
+
+* Why?
+
+* Why? - Level up your knowledge!
+.image ./images/level_up.jpg
+
+* Why? - New achievements and awards!
+- a record in the file *CONTRIBUTORS*
+- a special "Contributor" badge on Github.com
+.image ./images/badge.png
+- looking for a job? It's your chance!
+.image ./images/gophman.png
+
+* Why? - Just for fun!
+.image ./images/justforfun.jpg
+
+* How to?
+
+* How to? - Step 1. Preparing
+
+0. Install git
+1. Get sources
+
+  $ git clone https://go.googlesource.com/go
+  $ cd go
+
+2. Configure Git to use Gerrit
+3. Sign the CLA
+
+or use *go-contrib-init*
+
+  $ go get -u golang.org/x/tools/cmd/go-contrib-init
+  $ cd /code/to/edit
+  $ go-contrib-init
+
+.link https://golang.org/doc/contribute.html https://golang.org/doc/contribute.html
+
+* How to? - Step 2.
+
+- Choose a problem/issue/proposal
+- Discuss design via GitHub or proposal ( if needed )
+- Make a change and commit following a message format:
+
+ pkg: short description of a patch
+
+ details of the patch
+
+ Fixes #159
+
+- Push to the repo
+- Set the reviewers
+
+
+.image ./images/wait_cr.gif
+
+* How to? - Step 3. Wait for the review!
+
+.image ./images/review.png
+
+* What to contribute? (•ิ_•ิ)
+
+* What to contribute? (•ิ_•ิ)
+
+- Your own ideas/problems
+
+↓↓↓  _these_options_are_not_trivial_ ↓↓↓
+
+- Existing issues at https://github.com/golang/go/issues
+- *Help* *wanted* issues
+
+↑↑↑ _these_options_are_not_trivial_ ↑↑↑
+
+- Simple issues in source code
+.image ./images/step3.png
+
+* www.goandfix.me - Start here!
+
+.image ./images/goandfixme.png
