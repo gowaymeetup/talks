@@ -7,7 +7,7 @@
 
  
 #### 2. Using prepared SQL statements in Go – Макс Чечель
-- Slided [here](https://github.com/gowaymeetup/talks/blob/master/gowaymeetup_1.1/Using%20prepared%20SQL%20statements%20in%20Go.pdf) 
+- Slides [here](https://github.com/gowaymeetup/talks/blob/master/gowaymeetup_1.1/Using%20prepared%20SQL%20statements%20in%20Go.pdf) 
 - Video:    
 [![Using prepared SQL statements in Go – Макс Чечель](https://img.youtube.com/vi/j4WhrmgnwVE/0.jpg)](https://www.youtube.com/watch?v=j4WhrmgnwVE)  
 
@@ -15,3 +15,7 @@
 - Slides [here](http://go-talks.appspot.com/github.com/gowaymeetup/talks/gowaymeetup_1.1/goandfix_me/main.slide#1)
 - Video:  
 [![How to Contribute to Go – Stanislav Afanasev](https://img.youtube.com/vi/0a8u74Ul-hM/0.jpg)](https://www.youtube.com/watch?v=0a8u74Ul-hM)  
+
+#### Lightning Talks
+[![Lightning Talks](https://img.youtube.com/vi/ev4xqQze2Mw/0.jpg)](https://www.youtube.com/watch?v=ev4xqQze2Mw)  
+
